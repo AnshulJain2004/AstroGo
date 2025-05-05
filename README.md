@@ -2,10 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
-  <img src="https://img.shields.io/badge/Platform-React%20Native%20|%20Flask-
-green" alt="Platform">
-  <img src="https://img.shields.io/badge/Language-JavaScript%20|%20Python-
-yellow" alt="Languages">
+  <img src="https://img.shields.io/badge/Platform-React%20Native%20|%20Flask-green" alt="Platform">
+  <img src="https://img.shields.io/badge/Language-JavaScript%20|%20Python-yellow" alt="Languages">
   <img src="https://img.shields.io/badge/OpenAI-GPT--4o-purple" alt="OpenAI">
   <br><br>
   <strong><em>A unique blend of ancient wisdom and modern AI technology, giving 
@@ -98,15 +96,6 @@ AstroGo/
  | **Navigation**                   | `expo-router`                                          |
  | Purpose                           | Library                                                |
  |-----------------------------------|--------------------------------------------------------|
- | **Astrological Calculations**     | `swisseph`                                             |
- | **Geolocation**                   | `OpenCageGeocode`                                      |
- | **Time Management**               | `datetime`, `timedelta`, `pytz`                        |
- | **Caching Optimization**          | `functools` (LRU Cache)                                |
- | **Backend Framework**             | `Flask`, `Flask-CORS`                                  |
- | **Astrology Calculations Script** | `kundali_calculations.py`                              |
- | **AI Model Interaction**          | `openai`                                               |
- | **React Native UI Components**    | `react-native`, `react-native-paper`                   |
- | **Navigation**                    | `expo-router`                                          |
  
  ---
 
