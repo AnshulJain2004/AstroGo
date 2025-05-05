@@ -94,8 +94,6 @@ AstroGo/
  | **AI Model Interaction**         | `openai`                                               |
  | **React Native UI Components**   | `react-native`, `react-native-paper`                   |
  | **Navigation**                   | `expo-router`                                          |
- | Purpose                           | Library                                                |
- |-----------------------------------|--------------------------------------------------------|
  
  ---
 
