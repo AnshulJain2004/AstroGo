@@ -84,31 +84,31 @@ AstroGo/
 ---
 
 ## 📚 Libraries Used
-
-| Purpose                           | Library
-                                                |
-|-----------------------------------|-------------------------------------------
--------------
-| **Astrological Calculations**     | `swisseph`
-                                              |
-| **Geolocation**                   | `OpenCageGeocode`
-                                      |
-| **Time Management**               | `datetime`, `timedelta`, `pytz`
-                         |
-| **Caching Optimization**          | `functools` (LRU Cache)
-                                |
-| **Backend Framework**             | `Flask`, `Flask-CORS`
-                                  |
-| **Astrology Calculations Script** | `kundali_calculations.py`
-                              |
-| **AI Model Interaction**          | `openai`
-                                               |
-| **React Native UI Components**    | `react-native`, `react-native-paper`
-                   |
-| **Navigation**                    | `expo-router`
-                                           |
-
----
+ 
+ | Purpose                          | Library                                                |
+ | -------------------------------- | ------------------------------------------------------ |
+ | **Astrological Calculations**    | `swisseph`                                             |
+ | **Geolocation**                  | `OpenCageGeocode`                                      |
+ | **Time Management**              | `datetime`, `timedelta`, `pytz`                        |
+ | **Caching Optimization**         | `functools` (LRU Cache)                                |
+ | **Backend Framework**            | `Flask`, `Flask-CORS`                                  |
+ | **Astrology Calculations Script**| `kundali_calculations.py`                              |
+ | **AI Model Interaction**         | `openai`                                               |
+ | **React Native UI Components**   | `react-native`, `react-native-paper`                   |
+ | **Navigation**                   | `expo-router`                                          |
+ | Purpose                           | Library                                                |
+ |-----------------------------------|--------------------------------------------------------|
+ | **Astrological Calculations**     | `swisseph`                                             |
+ | **Geolocation**                   | `OpenCageGeocode`                                      |
+ | **Time Management**               | `datetime`, `timedelta`, `pytz`                        |
+ | **Caching Optimization**          | `functools` (LRU Cache)                                |
+ | **Backend Framework**             | `Flask`, `Flask-CORS`                                  |
+ | **Astrology Calculations Script** | `kundali_calculations.py`                              |
+ | **AI Model Interaction**          | `openai`                                               |
+ | **React Native UI Components**    | `react-native`, `react-native-paper`                   |
+ | **Navigation**                    | `expo-router`                                          |
+ 
+ ---
 
 ## 🌟 Features and Workflow
 
